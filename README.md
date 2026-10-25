@@ -1,7 +1,7 @@
 Kosmo-Arcade
 Учебный проект по Scratch
 
-[▶ Запустить игру](https://ttmp-0.github.io/Kosmo-Ship/)
+<a href="[https://ttmp-0.github.io/Kosmo-Ship/" target="_blank">▶ Запустить игру</a>
 
 Это пример учебного проекта, который создаётся на занятиях по программированию в Scratch.
 
