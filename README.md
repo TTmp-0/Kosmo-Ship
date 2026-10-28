@@ -1,4 +1,4 @@
-### Kosmo-Arcade  
+# Kosmo-Arcade  
 Учебный проект по Scratch
 
 <a href="https://ttmp-0.github.io/Kosmo-Ship/" target="_blank" rel="noopener noreferrer">▶ Запустить игру</a>
